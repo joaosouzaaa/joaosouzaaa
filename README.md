@@ -1,12 +1,20 @@
 ### Hello I'm João, I'm a backend programmer, and use C# on most of my projects.
 
-Languages and tools:
+<hr class="rounded" >
+
+
+**Languages and tools:**
 
 <div>
-  <img aling="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img aling="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  
+  <img aling="center" width="30" height="30" alt="c#" src="https://user-images.githubusercontent.com/90349332/142704694-05e1558e-0114-4537-bc16-45c1f69af57a.png">
+  <img aling="center" width="30" height="30" alt="c#" src="https://user-images.githubusercontent.com/90349332/142704901-1d3ca9b3-2011-4195-88b6-4c1cbc09f47e.png">
+
+
 
 </div>
+
+<hr class="rounded" >
 
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosouzaaa&show_icons=true&theme=tokyonight) 
@@ -15,8 +23,11 @@ Languages and tools:
   </br>
 </div>
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-medeiros-de-souza-ab598b201/)
-[![Github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaosouzaaa)
+<hr class="rounded" >
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-medeiros-de-souza-ab598b201/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaosouzaaa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 
 
