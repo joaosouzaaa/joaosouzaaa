@@ -1,4 +1,4 @@
-### Hello I'm João, I'm a backend programmer, and use C# on most of my projects.
+### Hello I'm João, I'm a backend developer, and use C# on most of my projects.
 
 <hr class="rounded" >
 
