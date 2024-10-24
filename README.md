@@ -6,11 +6,13 @@
 
 <div>
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img aling="center" width="30" height="30" src="https://user-images.githubusercontent.com/90349332/142704901-1d3ca9b3-2011-4195-88b6-4c1cbc09f47e.png">
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg">
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
 </div>
